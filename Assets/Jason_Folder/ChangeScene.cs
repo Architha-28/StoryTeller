@@ -16,6 +16,6 @@ public class ChangeScene : MonoBehaviour
 
     public void StartGame()
     {
-        SceneManager.LoadScene("Test_Scene"); // change to the Test_Scene scene if button is clicked
+        SceneManager.LoadScene("Test_Scene"); 
     }
 }
